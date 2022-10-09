@@ -1,0 +1,26 @@
+﻿ID,Weekday,Start,End,Lesson,Room,Floor,Group
+1,Monday,9:00,10:30,English,101,1,ENG1-22
+2,Monday,11:00,12:30,Mathematics,201,2,ENG1-22
+3,Monday,13:00,14:30,Biology,102,1,ENG1-22
+4,Monday,15:00,15:30,Cultures,401,4,ENG1-22
+5,Monday,17:00,17:30,History,202,2,ENG1-22
+6,Tuesday,9:00,10:30,Physics and space,203,2,ENG1-22
+7,Tuesday,11:00,12:30,Computer technology,402,4,ENG1-22
+8,Tuesday,13:00,14:30,Music,301,3,ENG1-22
+9,Tuesday,15:00,15:30,Visual arts,103,1,ENG1-22
+10,Tuesday,17:00,17:30,Contract law,403,4,ENG1-22
+11,Wednesday,9:00,10:30,Economics,302,3,ENG1-22
+12,Wednesday,11:00,12:30,Philosophy,104,1,ENG1-22
+13,Wednesday,13:00,14:30,Marketing,404,4,ENG1-22
+14,Wednesday,15:00,15:30,Software engineering,101,3,ENG1-22
+15,Wednesday,17:00,17:30,Strategic management,201,1,ENG1-22
+16,Thursday,9:00,10:30,English,102,1,ENG1-22
+17,Thursday,11:00,12:30,Mathematics,401,4,ENG1-22
+18,Thursday,13:00,14:30,Biology,202,2,ENG1-22
+19,Thursday,15:00,15:30,Cultures,203,2,ENG1-22
+20,Thursday,17:00,17:30,History,402,4,ENG1-22
+21,Friday,9:00,10:30,Physics and space,301,3,ENG1-22
+22,Friday,11:00,12:30,Computer technology,103,1,ENG1-22
+23,Friday,13:00,14:30,Music,403,4,ENG1-22
+24,Friday,15:00,15:30,Visual arts,302,3,ENG1-22
+25,Friday,17:00,17:30,Contract law,104,1,ENG1-22
